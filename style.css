@@ -1,0 +1,68 @@
+body {background-image: url(Pictures/CastleWithFlag.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      Background-position: center;
+      }
+
+header {width: 80%;
+        Margin: Auto;
+        }
+
+h1 {background-color: DarkGreen;
+    border-radius: 10px 10px 40px 40px;
+    color: Goldenrod;
+    padding: 30px;
+    text-align: center;
+    border: 5px solid rgb(240, 226, 73);
+    box-shadow: 6px 8px 6px goldenrod;
+    border-style: outset;}
+
+main {background-color:DarkGreen;
+      color:Goldenrod;
+      padding: 10px;
+      border-style: inset;
+      border-width: 6px;
+      border-color: rgb(240, 226, 73);}
+
+Footer {font-style: italic;
+        background-color:DarkGreen;
+        color:Goldenrod;
+        padding: 30px 1px 25px 20px;
+        width: 97%;
+        border-style: inset;
+        border-width: 6px;
+        border-color: rgb(240, 226, 73);}
+
+ul img {width: 60px;
+        height: 40px;
+        margin-left: 15%;}
+
+ul li {list-style-image: url(Pictures/IrelandFlag1.png);}
+
+img {height: 300px;
+     width: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     }
+
+#wrapper {width: 60%;
+          margin: auto;
+          margin-top: 30px;
+          }
+
+.specialborder {border-style: solid;
+            border-width: 9px 9px 9px 9px;
+            border-radius: 20px 20px 20px 20px;
+            border-image: url(Pictures/BorderClover1.gif) 9 9 9 9 round round;}
+
+.specialborderimg {border-style: solid;
+            border-width: 9px 9px 9px 9px;
+            border-radius: 20px 20px 20px 20px;
+            border-image: url(Pictures/BorderClover1.gif) 9 9 9 9 round round;
+            height: 300px;
+            width: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;}
